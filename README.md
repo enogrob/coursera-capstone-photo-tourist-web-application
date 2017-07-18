@@ -23,10 +23,10 @@ Architecture and Development Setup
 [x] Technical and Deployment Architecture (Part 1) 11 min
 [x] Technical and Deployment Architecture (Part 2) 14 min
 [x] Technical and Deployment Architecture (Part 3) 14 min
-[ ] Development Environment Setup 4 min
-[ ] Software Installation: MacOS 13 min
-[ ] Software Installation: Specifics for Windows 29 min
-[ ] Software Installation: Specifics for Linux and Docker 15 min
+[x] Development Environment Setup 4 min
+[x] Software Installation: MacOS 13 min
+[x] Software Installation: Specifics for Windows 29 min
+[x] Software Installation: Specifics for Linux and Docker 15 min
 
 API Development Basics
 [ ] Application Setup 6 min
