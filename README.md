@@ -18,11 +18,11 @@ Learn everything you need to about the subject of this `Coursera` project.
 WEEK 1
 
 Architecture and Development Setup
-[ ] Course Introduction 7 min
-[ ] Module 1 Introduction 3 min
-[ ] Technical and Deployment Architecture (Part 1) 11 min
-[ ] Technical and Deployment Architecture (Part 2) 14 min
-[ ] Technical and Deployment Architecture (Part 3) 14 min
+[x] Course Introduction 7 min
+[x] Module 1 Introduction 3 min
+[x] Technical and Deployment Architecture (Part 1) 11 min
+[x] Technical and Deployment Architecture (Part 2) 14 min
+[x] Technical and Deployment Architecture (Part 3) 14 min
 [ ] Development Environment Setup 4 min
 [ ] Software Installation: MacOS 13 min
 [ ] Software Installation: Specifics for Windows 29 min
