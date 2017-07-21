@@ -29,8 +29,8 @@ Architecture and Development Setup
 [x] Software Installation: Specifics for Linux and Docker 15 min
 
 API Development Basics
-[ ] Application Setup 6 min
-[ ] Application Setup Demo 10 min
+[x] Application Setup 6 min
+[x] Application Setup Demo 10 min
 [ ] Example Requirements 10 min
 [ ] RDBMS-backed Resource 12 min
 [ ] MongoDB-backed Resource 13 min
