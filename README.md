@@ -31,17 +31,17 @@ Architecture and Development Setup
 API Development Basics
 [x] Application Setup 6 min
 [x] Application Setup Demo 10 min
-[ ] Example Requirements 10 min
-[ ] RDBMS-backed Resource 12 min
-[ ] MongoDB-backed Resource 13 min
-[ ] Regression Testing 7 min
+[x] Example Requirements 10 min
+[x] RDBMS-backed Resource 12 min
+[x] MongoDB-backed Resource 13 min
+[x] Regression Testing 7 min
 
 API Deployment Basics
-[ ] Web Service Finishing Touches 3 min
-[ ] CORS 6 min
-[ ] Alternate Web Servers 4 min
-[ ] Gemfile Summary 8 min
-[ ] Provisioning mLab MongoDB 6 min
-[ ] API Deployment 13 min
+[x] Web Service Finishing Touches 3 min
+[x] CORS 6 min
+[x] Alternate Web Servers 4 min
+[x] Gemfile Summary 8 min
+[x] Provisioning mLab MongoDB 6 min
+[x] API Deployment 13 min
 [ ] Practice Peer-graded Assignment: Core API Development and Deployment 3h
 ```
