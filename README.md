@@ -20,7 +20,7 @@ WEEK 1
 Architecture and Development Setup
 [x] Course Introduction 7 min
 [x] Module 1 Introduction 3 min
-[ ] Technical and Deployment Architecture (Part 1) 11 min
+[x] Technical and Deployment Architecture (Part 1) 11 min
 [ ] Technical and Deployment Architecture (Part 2) 14 min
 [ ] Technical and Deployment Architecture (Part 3) 14 min
 [ ] Development Environment Setup 4 min
